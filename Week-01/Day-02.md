@@ -42,4 +42,4 @@ Image embedding model selection, local inference benchmarking, and deployment fe
 - Performance benchmarking script:  
   `code/day-02-image-embeddings/benchmark.py`
 
-embedding = model(preprocessed_image)
+
