@@ -38,8 +38,9 @@ Image embedding model selection, local inference benchmarking, and deployment fe
 
 ## 🔹 Code & Implementation
 - Image embedding extraction and inference:  
-  `code/day-02-image-embeddings/image_embedding.py`
+  [image_embedding.py](../code/day-02-image-embeddings/image_embedding.py)
 - Performance benchmarking script:  
-  `code/day-02-image-embeddings/benchmark.py`
+  [benchmark.py](../code/day-02-image-embeddings/benchmark.py)
+
 
 
