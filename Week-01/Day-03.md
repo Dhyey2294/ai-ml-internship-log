@@ -35,11 +35,12 @@ Face-specific embeddings, model export for Flutter/iOS, and debugging deployment
 
 ## 🔹 Code & Implementation
 - TFLite export script:  
-  [export_tflite.py](../code/day-03-face-embeddings/export_tflite.py)
+  [export_tflite.py](../code/code/day-03-face-embeddings/export_tflite.py)
 - TFLite inference validation:  
-  [test_tflite.py](../code/day-03-face-embeddings/test_tflite.py)
+  [test_tflite.py](../code/code/day-03-face-embeddings/test_tflite.py)
 - Final face embedding model:  
-  [mobilefacenet.tflite](../code/day-03-face-embeddings/mobilefacenet.tflite)
+  [mobilefacenet.tflite](../code/code/day-03-face-embeddings/mobilefacenet.tflite)
+
 
 
 
