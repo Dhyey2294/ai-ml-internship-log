@@ -1,4 +1,5 @@
-# Day 03 – Face Embedding & TFLite
+# Day 03 – Face Embeddings & TFLite Deployment
 
-Face embedding model export and inference testing
-for Flutter/iOS deployment.
+This folder contains code related to face embedding generation,
+TensorFlow Lite model export, and inference testing for
+Flutter/iOS on-device deployment.
