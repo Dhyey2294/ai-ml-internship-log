@@ -32,3 +32,13 @@ Face-specific embeddings, model export for Flutter/iOS, and debugging deployment
 - Delivered a working face embedding TFLite model
 - Understood the importance of face-specific embeddings for accurate similarity grouping
 - Gained hands-on experience with ML deployment, debugging, and cross-team collaboration
+
+## 🔹 Code & Implementation
+- TFLite export script:  
+  `code/day-03-face-embeddings/export_tflite.py`
+- TFLite inference validation:  
+  `code/day-03-face-embeddings/test_tflite.py`
+- Final face embedding model:  
+  `code/day-03-face-embeddings/mobilefacenet.tflite`
+
+
