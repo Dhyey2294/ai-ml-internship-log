@@ -36,18 +36,10 @@ Image embedding model selection, local inference benchmarking, and deployment fe
 - Identified preprocessing and model loading as key factors affecting latency
 - Gained clarity on expected inference time for mobile deployment
 
----
-
-## Code Snippets Used
-
-### Image Embedding Generation
-```python
-import tensorflow as tf
-
-model = tf.keras.applications.MobileNetV2(
-    weights="imagenet",
-    include_top=False,
-    pooling="avg"
-)
+## 🔹 Code & Implementation
+- Image embedding extraction and inference:  
+  `code/day-02-image-embeddings/image_embedding.py`
+- Performance benchmarking script:  
+  `code/day-02-image-embeddings/benchmark.py`
 
 embedding = model(preprocessed_image)
