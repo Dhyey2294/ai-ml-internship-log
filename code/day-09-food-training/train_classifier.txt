@@ -1,0 +1,8 @@
+yolo classify train \
+  model=yolov8n-cls.pt \
+  data=Dataset/images_cls_split \
+  epochs=25 \
+  imgsz=224 \
+  batch=32 \
+  project=models \
+  name=food_classifier.pt
