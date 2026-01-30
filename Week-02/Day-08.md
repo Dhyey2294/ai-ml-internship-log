@@ -6,7 +6,7 @@ To clean, standardize, and merge multiple datasets into a unified structure
 for large-scale food classification.
 
 ## 🔹 Work Done
-- Removed corrupted and unreadable images.
+- Removed corrupted and unreadable images. 
 - Standardized class names across all datasets.
 - Identified and removed duplicate images.
 - Merged datasets into a single unified directory structure.
