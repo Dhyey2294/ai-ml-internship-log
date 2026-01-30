@@ -1,4 +1,4 @@
-# Day 06 – 26 Jan 2026
+# Day 07 – 26 Jan 2026
 ## 🟢 AI-Based Food Recognition System
 
 ## 🎯 Objective
