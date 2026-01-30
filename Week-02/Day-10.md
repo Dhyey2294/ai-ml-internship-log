@@ -1,21 +1,22 @@
 # Day 10 – 29 Jan 2026
-## 🟣 Model Inference & Evaluation
+## 🟣 Model Inference, Evaluation & Metrics
 
 ## 🎯 Objective
-To evaluate the trained model on various image sources and analyze prediction behavior.
+To evaluate model performance and analyze inference behavior on real-world images.
 
 ## 🔹 Work Done
 - Performed inference using the trained YOLOv8 classification model.
-- Tested the model on:
-  - Validation dataset
-  - Unseen raw dataset images
-  - External internet images
-- Analyzed prediction confidence scores and class rankings.
-- Evaluated model behavior on visually similar food items.
+- Tested the model on validation data and unseen external images.
+- Analyzed prediction confidence and class rankings.
+- Evaluated performance on visually similar food items.
 
-## ✅ Outcome
-The model demonstrated reliable predictions and acceptable inference speed
-for real-time applications.
+## ✅ Final Metrics Summary
+- **Top-1 Accuracy:** ~76%
+- **Top-5 Accuracy:** ~92%
+- **Training Loss:** Steadily decreased across epochs, indicating stable convergence
+- **Inference Speed:** ~4–7 ms per image
+- **Training Framework:** YOLOv8 (Ultralytics) with PyTorch backend
 
 ## 🧠 Learnings
-Inference testing on unseen data is essential to understand real-world performance.
+Inference evaluation on unseen data is crucial for understanding
+real-world model behavior and reliability.
