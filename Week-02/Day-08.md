@@ -12,7 +12,7 @@ for large-scale food classification.
 - Merged datasets into a single unified directory structure.
 - Created a multi-class dataset with 200+ food categories.
 - Split the dataset into training and validation sets.
-
+ 
 ## ✅ Outcome
 A clean and well-structured dataset suitable for training deep learning
 classification models.
