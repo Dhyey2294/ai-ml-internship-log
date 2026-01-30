@@ -20,3 +20,9 @@ classification models.
 ## 🧠 Learnings
 Proper dataset preprocessing significantly improves training stability
 and final model performance.
+
+## 🔹 Code & Implementation
+- Image cleaning:  
+  [clean_images.py](../code/day-08-food-preprocessing/clean_images.py)
+- Dataset splitting:  
+  [split_dataset.py](../code/day-08-food-preprocessing/split_dataset.py)
