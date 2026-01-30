@@ -2,7 +2,7 @@
 ## 🔵 Model Selection & Training
 
 ## 🎯 Objective
-To train a food image classification model using YOLOv8.
+To train a large-scale food image classification model using YOLOv8.
 
 ## 🧠 Model Used
 - YOLOv8 Classification (YOLOv8-cls)
@@ -11,8 +11,8 @@ To train a food image classification model using YOLOv8.
 
 ## ⚙️ Training Configuration
 - Tuned input image resolution
-- Optimized batch size for GPU memory
-- Selected appropriate number of training epochs
+- Optimized batch size for GPU utilization
+- Selected appropriate number of epochs
 
 ## 📊 Metrics Tracked
 - Training loss
@@ -20,8 +20,9 @@ To train a food image classification model using YOLOv8.
 - Top-5 accuracy
 
 ## ✅ Outcome
-- Achieved strong classification accuracy across hundreds of visually similar food classes.
+- Successfully trained a multi-class food classification model.
 - Saved best-performing model checkpoints for inference.
 
 ## 🧠 Learnings
-YOLOv8 provides an efficient pipeline for large-scale image classification tasks.
+YOLOv8 provides an efficient and scalable pipeline for large-scale
+image classification tasks.
