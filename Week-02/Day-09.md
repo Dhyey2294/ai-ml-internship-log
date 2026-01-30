@@ -26,3 +26,8 @@ To train a large-scale food image classification model using YOLOv8.
 ## 🧠 Learnings
 YOLOv8 provides an efficient and scalable pipeline for large-scale
 image classification tasks.
+
+## 🔹 Code & Implementation
+- Training command:  
+  [train_classifier.txt](../code/day-09-food-training/train_classifier.txt)
+
