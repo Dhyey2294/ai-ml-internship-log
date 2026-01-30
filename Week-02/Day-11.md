@@ -2,22 +2,21 @@
 ## 🔴 Results, Learnings & Conclusion
 
 ## 📊 Final Results
-- Successfully trained a large-scale food classification model.
-- Handled 200+ food categories.
-- Achieved strong accuracy on visually similar food items.
-- Maintained inference speed suitable for mobile applications.
+- Trained a large-scale food classification model with 200+ categories.
+- Achieved strong accuracy across visually similar food items.
+- Maintained fast inference suitable for mobile applications.
 
 ## ⚠️ Limitations
-- Pure classification struggles with images containing multiple food items.
-- Model performance is highly dependent on dataset quality.
+- Classification-only approach struggles with images containing multiple food items.
+- Model performance depends heavily on dataset quality.
 
 ## 🧠 Key Learnings
-- Importance of dataset engineering
-- Handling large multi-class classification problems
-- Practical experience with YOLOv8 workflows
-- Designing AI systems for real-world use cases
+- Importance of large-scale dataset engineering
+- Handling complex multi-class classification problems
+- Practical experience with YOLOv8 training and inference workflows
+- Designing AI systems for real-world deployment
 
 ## 🔮 Future Work
 - Integrate object detection for multi-food images
-- Add nutritional analysis
-- Optimize for on-device inference
+- Add nutritional analysis for detected food items
+- Optimize models for on-device deployment
