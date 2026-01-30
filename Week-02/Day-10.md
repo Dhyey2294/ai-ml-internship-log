@@ -20,3 +20,7 @@ To evaluate model performance and analyze inference behavior on real-world image
 ## 🧠 Learnings
 Inference evaluation on unseen data is crucial for understanding
 real-world model behavior and reliability.
+
+## 🔹 Code & Implementation
+- Inference script:  
+  [predict_food.py](../code/day-10-food-inference/predict_food.py)
