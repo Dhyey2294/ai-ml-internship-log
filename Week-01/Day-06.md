@@ -60,3 +60,10 @@ for real-world car purchase amount prediction.
 - Feature scaling is essential for ANN regression stability.
 - Early stopping significantly improves generalization.
 - Saving models and scalers is crucial for real-world deployment.
+
+## 🔹 Code & Implementation
+- ANN training and evaluation:  
+  [train_ann.py](../code/day-06-ann-training/train_ann.py)
+- New customer inference:  
+  [predict_new_customer.py](../code/day-06-ann-training/predict_new_customer.py)
+
