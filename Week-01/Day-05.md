@@ -46,3 +46,8 @@ pipeline for predicting car purchase amount using customer data.
 ## 🧠 Learnings
 Proper data cleaning and feature scaling are critical for achieving
 stable and accurate ANN regression performance.
+
+## 🔹 Code & Implementation
+- Data preprocessing and scaling:  
+  [preprocess_data.py](../code/day-05-ann-preprocessing/preprocess_data.py)
+
