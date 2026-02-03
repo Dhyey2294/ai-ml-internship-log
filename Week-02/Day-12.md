@@ -37,3 +37,12 @@ object detection model capable of detecting multiple food items in a single imag
 - Dataset diversity is essential for better detection performance.
 - Crawling helps cover region-specific foods not present in public datasets.
 - Deduplication prevents biased training.
+
+## 🔹 Code & Implementation
+- Image crawler:  
+  [crawler.py](../code/day-12-food-dataset-prep/crawler.py)
+- Duplicate removal:  
+  [remove_duplicates.py](../code/day-12-food-dataset-prep/remove_duplicates.py)
+- Merge to YOLO format:  
+  [merge_to_yolo.py](../code/day-12-food-dataset-prep/merge_to_yolo.py)
+
