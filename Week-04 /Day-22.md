@@ -29,7 +29,5 @@ Separating UI, services, and utilities early in development greatly improves mai
 
 ## 🔹 Code & Implementation
 - Main application:  
-[app.py](../code/day-22-project-setup/app.py)
+[app.py](../code/ day-22-project-setup/app.py)
 
-- Dependencies:  
-[requirements.txt](../code/day-22-project-setup/requirements.txt)
