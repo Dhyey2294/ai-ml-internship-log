@@ -10,8 +10,7 @@ This repository contains my daily work, learnings, and progress during my AI/ML 
 ## 📚 Focus Areas
 - Machine Learning
 - Deep Learning
-- On-device AI
-- Image Embeddings & Similarity
+- Gen AI
 
 ## 🗓️ Daily Logs
 Logs are organized week-wise with detailed daily entries.
